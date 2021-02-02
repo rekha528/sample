@@ -10,7 +10,7 @@
 |----|------|------|
 |Rekha|18551A0528|CSE|
 
-#Unordered listZ
+#Unordered list
 -Good afternoon
 -Good night
 -Good morning
