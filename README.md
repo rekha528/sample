@@ -11,7 +11,12 @@
 |Rekha|18551A0528|CSE|
 
 # Unordered List
-
 - Good afternoon
 - Good night
 - Good morning
+
+# Ordered List
+1. good morning
+2. good afternoon
+3. good night
+
